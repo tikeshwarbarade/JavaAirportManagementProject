@@ -1,5 +1,3 @@
-# JavaAirportManagementProject
-
 # Airport Management System
 
 ## Project Overview
